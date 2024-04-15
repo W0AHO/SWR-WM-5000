@@ -1,19 +1,6 @@
 # SWR-WM-5000
 ## Home Brew project from W0AHO
 
-ATTENTION!!    I have been trying to generate some interest in this Watt Meter.  Either I am not doing it correctly or there is just not any interest in it.  I don’t receive any email, or no one is following.
-
-With that being said, I will be removing this repository on Friday January 13th.
-
-Thanks
-
-73
-
-Tim W0AHO
-
-Update ----- Circuit boards have arrived.  Now to start assembly 01/06/2023
-
-Update----- Circuit boards are ordered and have been shipped. 12/28/22
 
 This is a work in progress, additions will be made constantly 
 
