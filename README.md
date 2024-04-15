@@ -62,20 +62,20 @@ The LED's provide indications of Band, and couplers connected
 
  Three different Couplers
     
-     2500 watt HF coupler
+ 2500 watt HF coupler
     
 
     
-     5000 watt HF coupler
+5000 watt HF coupler
     
 
 
-     5000 watt VHF/UHF coupler
+5000 watt VHF/UHF coupler
     
     
  Each individual coupler contains calibration points
 
-     13 interpolated coupler calibration points
+ 13 interpolated coupler calibration points
 
 
 # Ethernet Connection Computer program
