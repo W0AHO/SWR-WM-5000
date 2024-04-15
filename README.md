@@ -64,13 +64,12 @@ The LED's provide indications of Band, and couplers connected
     
      2500 watt HF coupler
     
- ![coupler 2500 watt](images/coupler_2500.png)
+
     
      5000 watt HF coupler
     
- ![coupler 2500 watt](images/coupler_5000.png)
- ![coupler 2500 watt](images/coupler_5000_a.png)
-    
+
+
      5000 watt VHF/UHF coupler
     
     
