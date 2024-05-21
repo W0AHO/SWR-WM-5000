@@ -48,7 +48,7 @@ USB connection
 
  Input Module #2
 
-The Input Module #2 privides input from coupler #3, #4, #5 and #6
+The Input Module #2 provides input from coupler #3, #4, #5 and #6
 
 Four I/O's for Alarms, Coupler #3 to #6.
 
